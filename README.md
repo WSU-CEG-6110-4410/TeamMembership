@@ -8,7 +8,7 @@ If you don't have an account that you can use for courswork assigned for WSU CEG
 ``` git clone https://github.com/WSU-CEG-6110-4410/TeamMembership.git ```
 
 ## Create a branch to contain your edits
-```git checkout -b <yourName>``` where *<yourName>* is replaced with your actual name as it appears in pIlot
+```git checkout -b yourName``` where *yourName* is replaced with your actual name as it appears in pIlot
   
 ## Edit TeamMembers.txt
 Edit your cloned copy of *TeamMembers.txt* by appending your real name as it appears in Pilot followed by your GitHub account to the list of team members. See the existing file content for examples.
