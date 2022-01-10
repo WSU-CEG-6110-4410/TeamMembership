@@ -20,5 +20,5 @@ Edit your cloned copy of *TeamMembers.txt* by appending your real name as it app
   ```git push```
   
 ## Create a Pull Request
-In the GitHub web interface, create a Pull Request to merge your branch into the *dev* branch. Assign erikbuck as a reviewer for your Pull Request. Once your Pull Request is approved, fix any merge conflicts and merge your branch into *dev*. Then, you may delete your branch if you want.
+In the GitHub web interface, create a Pull Request to merge your branch into the *dev* branch. Assign *erikbuck* as a reviewer for your Pull Request. Once your Pull Request is approved, fix any merge conflicts and merge your branch into *dev*. Then, you may delete your branch if you want.
   
