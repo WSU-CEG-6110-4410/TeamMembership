@@ -1,1 +1,3 @@
 Buck, Erik M.: github.com/erikbuck
+Buck, Erik M.: github.com/erikbuck // Added again as demo to class
+
