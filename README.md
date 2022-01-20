@@ -5,7 +5,7 @@ A log of requests to join the WSU-CEG-6110-4110 Organization
 If you don't have an account that you can use for courswork assigned for WSU CEG-6110/4110 in Spring 2022, create an account now.
 
 ## Clone this repository.
-``` git clone https://github.com/WSU-CEG-6110-4410/TeamMembership.git ```
+``` git clone https://github.com/erikbuck/TeamMembership.git ```
 
 ## Create a branch to contain your edits
 ```git checkout -b yourName``` where *yourName* is replaced with your actual name as it appears in Pilot but without spaces e.g erikbuck
