@@ -16,3 +16,5 @@ Stetz, Samantha: github.com/camberwellbeauty
 Martin, Kevin: github.com/kmartin82
 Conley, Benjamin: github.com/FrostyWumpus
 Poling, Jacob D.: github.com/XarosElite
+Nalabothu, Sireesha sireeshanalabothu@gmail.com // Note: this is not a valid github ID
+Palamakula, Ajay krishna Reddy github.com/pajayreddy
