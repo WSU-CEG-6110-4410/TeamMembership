@@ -1,3 +1,5 @@
+Behr, Joseph: github.com/JosephBehr
+Brennaman, Logan R: github.com/lbrennaman
 Buck, Erik M.: github.com/erikbuck
 Glassburn, Jordan: github.com/DragonTamer9001
 Naylor, Michael D.: github.com/mnaylor120
@@ -6,3 +8,18 @@ Rude, Austin W.: github.com/austin-wr
 Brennaman, Logan R: github.com/lbrennaman
 Partee, Isaac: github.com/isdp2001
 Moore, Luke: github.com/lukemoore495
+Conley, Benjamin: github.com/FrostyWumpus
+Glassburn, Jordan: github.com/DragonTamer9001
+Hartlage, Ronni: github.com/rhartlage10
+King, Daniel: github.com/danielrking4290
+Martin, Kevin: github.com/kmartin82
+Mays, William: github.com/willm132
+Moore, Luke: github.com/lukemoore495
+Naylor, Michael D.: github.com/mnaylor120
+Partee, Isaac: github.com/isdp2001
+Poling, Jacob D.: github.com/XarosElite
+Ruby, Shawn M.: github.com/agreeablyblue
+Rude, Austin W.: github.com/austin-wr
+Singh, Harroop: github.com/harroopsingh1993
+Stetz, Samantha: github.com/camberwellbeauty
+Wright James: github.com/XJamesWrightX
