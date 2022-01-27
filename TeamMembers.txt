@@ -1,4 +1,5 @@
 Buck, Erik M.: github.com/erikbuck
+Ruby, Shawn M.: github.com/agreeablyblue
 Glassburn, Jordan: github.com/DragonTamer9001
 Naylor, Michael D.: github.com/mnaylor120
 Wright James: github.com/XJamesWrightX
