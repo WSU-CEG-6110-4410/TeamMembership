@@ -1,25 +1,24 @@
 Akkineni, Anuhya
 Bandi, Jahnavi
-Behr, Joseph
 Behr, Joseph: github.com/JosephBehr
 Boyina, Lekhanaa Jaya Sree
 Brennaman, Logan R: github.com/lbrennaman
 Buck, Erik M.: github.com/erikbuck
-Carroll, Torey
+Carroll, Torey: https://github.com/ToreyC31
 Chakka, Vinay
 Cherukuri, Revanth Krishna
 Conley, Benjamin: github.com/FrostyWumpus
 Erra, Ram Dixit
-Foster, John
+Foster, John: github.com/fosterj14
 Gadiraju, Deepika
-Garrett, Stephan
+Garrett, Stephan: github.com/Hanaham
 Geiger, Ethan
 Glassburn, Jordan: github.com/DragonTamer9001
-Haire, Brandon
+Haire, Brandon: github.com/brandonhaire
 Hardesty, Benjamin: github.com/CrimsonBlack
 Hartlage, Ronni: github.com/rhartlage10
 King, Daniel: github.com/danielrking4290
-Kodati, Kartheek
+Kodati, Kartheek: https://github.com/karthikkodati79
 Kuthati, Krishna
 Logemann, Kevin: github.com/kevinlogemann
 Manning, Jessica
@@ -28,13 +27,13 @@ Mays, William: github.com/willm132
 Mccall, Timothy
 Medam, Venkata Anudeep
 Miller, Parker: github.com/P4RK3RM
-Mirupala, Sneha
-Mohammed, Fayazuddin
+Mirupala, Sneha: https://github.com/snehamirupala
+Mohammed, Fayazuddin: github.com/fayu555
 Moore, Luke: github.com/lukemoore495
-Nalabothu, Sireesha
+Nalabothu, Sireesha: https://github.com/sireeshanalabothu/sireeshanalabothu
 Narra, Prathyusha
 Naylor, Michael D.: github.com/mnaylor120
-Paidikondala, Lakshmi Prasanna
+Paidikondala, Lakshmi Prasanna: https://github.com/pajayreddy
 Palamakula, Ajay Krishna Reddy
 Partee, Isaac: github.com/isdp2001
 Perry, Madison
@@ -48,6 +47,6 @@ Satla, Ravali
 Singh, Harroop: github.com/harroopsingh1993
 Stetz, Samantha: github.com/camberwellbeauty
 Thummala, Mrudhul Sai
-Unkrich, Lettie
+Unkrich, Lettie: github.com/Letscet
 Wright James: github.com/XJamesWrightX
-Yegalapati, Venkata Dorayya
+Yegalapati, Venkata Dorayya: https://github.com/Dorayya62
