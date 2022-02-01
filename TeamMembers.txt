@@ -12,7 +12,7 @@ Conley, Benjamin: github.com/FrostyWumpus
 Erra, Ram Dixit
 Foster, John
 Gadiraju, Deepika
-Garrett, Stephan
+Garrett, Stephan: github.com/Hanaham
 Geiger, Ethan
 Glassburn, Jordan: github.com/DragonTamer9001
 Haire, Brandon
