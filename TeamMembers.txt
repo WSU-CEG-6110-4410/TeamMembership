@@ -15,7 +15,7 @@ Garrett, Stephan: github.com/Hanaham
 Geiger, Ethan
 Glassburn, Jordan: github.com/DragonTamer9001
 Haire, Brandon: github.com/brandonhaire
-Hardesty, Benjamin
+Hardesty, Benjamin: github.com/CrimsonBlack
 Hartlage, Ronni: github.com/rhartlage10
 King, Daniel: github.com/danielrking4290
 Kodati, Kartheek: https://github.com/karthikkodati79
@@ -26,7 +26,7 @@ Martin, Kevin: github.com/kmartin82
 Mays, William: github.com/willm132
 Mccall, Timothy
 Medam, Venkata Anudeep
-Miller, Parker
+Miller, Parker: github.com/P4RK3RM
 Mirupala, Sneha: https://github.com/snehamirupala
 Mohammed, Fayazuddin: github.com/fayu555
 Moore, Luke: github.com/lukemoore495
