@@ -9,7 +9,7 @@ Chakka, Vinay
 Cherukuri, Revanth Krishna
 Conley, Benjamin: github.com/FrostyWumpus
 Erra, Ram Dixit
-Foster, John
+Foster, John: github.com/fosterj14
 Gadiraju, Deepika
 Garrett, Stephan: github.com/Hanaham
 Geiger, Ethan
