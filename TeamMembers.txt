@@ -27,7 +27,7 @@ Martin, Kevin: github.com/kmartin82
 Mays, William: github.com/willm132
 Mccall, Timothy
 Medam, Venkata Anudeep
-Miller, Parker
+Miller, Parker: github.com/P4RK3RM
 Mirupala, Sneha
 Mohammed, Fayazuddin
 Moore, Luke: github.com/lukemoore495
