@@ -24,7 +24,7 @@ Logemann, Kevin: github.com/kevinlogemann
 Manning, Jessica
 Martin, Kevin: github.com/kmartin82
 Mays, William: github.com/willm132
-Mccall, Timothy
+Mccall, Timothy: https://github.com/TiMcCall
 Medam, Venkata Anudeep
 Miller, Parker: github.com/P4RK3RM
 Mirupala, Sneha: https://github.com/snehamirupala
