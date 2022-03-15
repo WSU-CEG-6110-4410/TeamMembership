@@ -9,3 +9,11 @@ Team Ctrl Alt Elite
   Madison Perry: IndecisiveMagician 
   Benjamin Hardesty: CrimsonBlack 
   1 Week Sprints 
+  
+  
+  Team: Uncle Buck's Degenerates
+  Michael Naylor: mnaylor120
+  Jessica Manning: jlmanning
+  Brandon Haire: brandonhaire
+  Torey Carroll: ToreyC31
+  We chose 1 Week Sprints
