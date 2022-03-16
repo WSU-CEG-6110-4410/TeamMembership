@@ -43,7 +43,7 @@ Rude, Austin W.: github.com/austin-wr
 Sabbella, Akhil Sai Satyanarayana Reddy
 Sangepu, Surya Teja
 Satla, Rahul
-Satla, Ravali
+Satla, Ravali: github.com/RavaliSatla
 Singh, Harroop: github.com/harroopsingh1993
 Stetz, Samantha: github.com/camberwellbeauty
 Thummala, Mrudhul Sai
