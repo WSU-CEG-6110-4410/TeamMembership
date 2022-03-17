@@ -17,3 +17,8 @@ Team Ctrl Alt Elite
   Brandon Haire: brandonhaire
   Torey Carroll: ToreyC31
   We chose 1 Week Sprints
+
+Team: AVT
+Palamakula Ajay Krishna Reddy: pajayreddy
+Venkata Dorayya Yegalapati: Dorayya62
+1 Week Sprints
