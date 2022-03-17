@@ -17,3 +17,10 @@ Team Ctrl Alt Elite
   Brandon Haire: brandonhaire
   Torey Carroll: ToreyC31
   We chose 1 Week Sprints
+
+
+Team: SimpleMindsTEAM
+Sireesha Nalabothu : sireeshanalabothu
+Lakshmi Prasanna paidikondala : paidikondala
+Anuhya Akkineni : aanuhya31
+We choose 1 Week Sprints
