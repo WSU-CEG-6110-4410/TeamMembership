@@ -17,3 +17,11 @@ Team Ctrl Alt Elite
   Brandon Haire: brandonhaire
   Torey Carroll: ToreyC31
   We chose 1 Week Sprints
+
+Team: Alpha
+Rahul Satla: rahul-satla
+Ravali Satla: RavaliSatla
+Ram Dixit Erra: RamDixitErra
+Akhil Sai Satyanarayana Reddy Sabbella: Akhil-sabbella
+Deepika Gadiraju: deepika-gadiraju
+We choose 1 week sprints
