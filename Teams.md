@@ -22,3 +22,16 @@ Team: AVT
 Palamakula Ajay Krishna Reddy: pajayreddy
 Venkata Dorayya Yegalapati: Dorayya62
 1 Week Sprints
+
+Team: Agile Developers Agilely Developing
+  Sprint Length: 1 week
+	Fayazuddin Mohammed | fayu555
+	William Mays | willm132
+	Samantha Stetz | camberwellbeauty
+	Austin Rude | austin-wr
+	Joseph Behr | JosephBehr
+	Shawn M. Ruby | agreeablyblue
+	Kevin Logemann | kevinlogemann
+	Benjamin Conley | FrostyWumpus
+	Lettie Unkrich | Letscet
+	Daniel King | danielrking4290
