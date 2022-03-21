@@ -35,3 +35,10 @@ Team: Agile Developers Agilely Developing
 	Benjamin Conley | FrostyWumpus
 	Lettie Unkrich | Letscet
 	Daniel King | danielrking4290
+	
+Team: Alpha
+Rahul Satla: rahul-satla
+Ravali Satla: RavaliSatla
+Ram Dixit Erra: RamDixitErra
+Akhil Sai Satyanarayana Reddy Sabbella: Akhil-sabbella
+Deepika Gadiraju: deepika-gadiraju	
