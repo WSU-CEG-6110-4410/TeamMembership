@@ -35,3 +35,10 @@ Team: Agile Developers Agilely Developing
 	Benjamin Conley | FrostyWumpus
 	Lettie Unkrich | Letscet
 	Daniel King | danielrking4290
+	
+	
+	TEAM : SimplemindsTeamLatest
+	sprint length: 1 week
+	Sireesha Nalabothu : sireeshanalabothu
+	Lakshmi Prasanna Paidikondala : paidikondala
+	Anuhya Akkineni : aanuhya31
