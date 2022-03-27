@@ -35,6 +35,7 @@ Team: Agile Developers Agilely Developing
 	Benjamin Conley | FrostyWumpus
 	Lettie Unkrich | Letscet
 	Daniel King | danielrking4290
+
 	
 	
 	TEAM : SimplemindsTeamLatest
@@ -42,3 +43,11 @@ Team: Agile Developers Agilely Developing
 	Sireesha Nalabothu : sireeshanalabothu
 	Lakshmi Prasanna Paidikondala : paidikondala
 	Anuhya Akkineni : aanuhya31
+
+
+Team: The Remainders
+  Sprint Duration: 1 week
+  	Timothy McCall | TiMcCall
+	John Foster | Fosterj14
+	Ethan Geiger | EthanGeiger
+
