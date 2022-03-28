@@ -42,3 +42,9 @@ Ravali Satla: RavaliSatla
 Ram Dixit Erra: RamDixitErra
 Akhil Sai Satyanarayana Reddy Sabbella: Akhil-sabbella
 Deepika Gadiraju: deepika-gadiraju	
+
+Team: The Remainders
+  Sprint Duration: 1 week
+  	Timothy McCall | TiMcCall
+	John Foster | Fosterj14
+	Ethan Geiger | EthanGeiger
