@@ -11,12 +11,15 @@ Team Ctrl Alt Elite
   1 Week Sprints 
   
   
-  Team: Uncle Buck's Degenerates
-  Michael Naylor: mnaylor120
-  Jessica Manning: jlmanning
-  Brandon Haire: brandonhaire
-  Torey Carroll: ToreyC31
+  Team: Uncle Buck's Degenerates  
   We chose 1 Week Sprints
+  - Michael Naylor: mnaylor120
+  - Jessica Manning: jlmanning
+  - Brandon Haire: brandonhaire
+  - Torey Carroll: ToreyC31  
+  - Kevin Martin
+  Repo: https://github.com/WSU-CEG-6110-4410/Uncle-Buck-s-Degenerates.  
+  
 
 Team: AVT
 Palamakula Ajay Krishna Reddy: pajayreddy
