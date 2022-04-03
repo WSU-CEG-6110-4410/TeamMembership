@@ -21,7 +21,7 @@ King, Daniel: github.com/danielrking4290
 Kodati, Kartheek: https://github.com/karthikkodati79
 Kuthati, Krishna
 Logemann, Kevin: github.com/kevinlogemann
-Manning, Jessica: github.com/jlmanning
+Manning, Jessica L.: github.com/jlmanning
 Martin, Kevin: github.com/kmartin82
 Mays, William: github.com/willm132
 Mccall, Timothy: https://github.com/TiMcCall
