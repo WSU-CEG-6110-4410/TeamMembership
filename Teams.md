@@ -5,11 +5,11 @@ Team 10
   1 Week Sprints
 
 Team Ctrl Alt Elite 
-  Ronni Hartlage: rhartlage10 
-  Madison Perry: IndecisiveMagician 
-  Benjamin Hardesty: CrimsonBlack 
-  1 Week Sprints 
-  
+  - Ronni Hartlage: rhartlage10 
+  - Madison Perry: IndecisiveMagician 
+  - Benjamin Hardesty: CrimsonBlack 
+  - 1 Week Sprints 
+  - Repo: https://github.com/rhartlage10/CtrlAltElite-Craft
   
   Team: Uncle Buck's Degenerates  
   We chose 1 Week Sprints
