@@ -25,6 +25,7 @@ Team: AVT
 Palamakula Ajay Krishna Reddy: pajayreddy
 Venkata Dorayya Yegalapati: Dorayya62
 1 Week Sprints
+REPOSITORY:https://github.com/Team-AVT/AirViewer2
 
 Team: Agile Developers Agilely Developing
   Sprint Length: 1 week
