@@ -66,3 +66,11 @@ Team: The Remainders
 	Luke Moore | lukemoore495
 	Stephan Garrett | Hanaham
 
+Team: Developers
+  Sprint Duration: 5 days
+  	Vinay Chakka | vinaychakka
+	Lekhanaa Boyina | lekhanaa17
+	Surya Sangepu | suryasangepu
+	Prathyusha Narra | prathyu2719
+	Jahnavi Bandi | janu0613
+	Revanth Cherukuri | cherukuri.31@wright.edu
