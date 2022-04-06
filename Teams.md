@@ -50,6 +50,7 @@
 - Akhil Sai Satyanarayana Reddy Sabbella: Akhil-sabbella
 - Deepika Gadiraju: deepika-gadiraju
 - Sprint Length: 1 Week
+- Repository: https://github.com/TeamAlpha5/AirViewer2
 	
 ## TEAM : SimplemindsTeamLatest
 - sprint length: 1 week
