@@ -66,6 +66,7 @@
 - Luke Moore | lukemoore495
 - Manning, Jessica: github.com/jlmanning
 - Stephan Garrett | Hanaham
+- Parker Miller | P4RK3RM
 
 ## Team: Developers
 - Sprint Duration: 5 days
