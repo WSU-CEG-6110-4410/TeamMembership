@@ -76,3 +76,8 @@
 - Prathyusha Narra | prathyu2719
 - Jahnavi Bandi | janu0613
 - Revanth Cherukuri | cherukuri.31@wright.edu
+
+## Team : Agile Tuskers
+- Sprint Duration : 5 days
+- krishna kanth Kuthati | kuthatikk
+- mrudhul sai thummala | mrudhul-eng
