@@ -78,3 +78,9 @@
 - Revanth Cherukuri | cherukuri.31@wright.edu
 - Venkata Anudeep Medam | anudeepmv
 - Repository: https://github.com/anudeepmv/WEBSTER
+
+## Team: Agile tuskers
+- Sprint duration : 5 days
+- Krishna kanth Kuthati | kuthatikk
+- Mrudhul sai Thummala | Mrudhul-eng
+- Repo : https://github.com/WSU-CEG-6110-4410/Agile-Tuskers
