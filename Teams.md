@@ -84,3 +84,9 @@
 - Krishna kanth Kuthati | kuthatikk
 - Mrudhul sai Thummala | Mrudhul-eng
 - Repo : https://github.com/WSU-CEG-6110-4410/Agile-Tuskers
+
+## Team: Bob
+- Sprint duration : 1 week
+- kartheek kodati : karthikkodati79
+- sneha mirupala : snehamirupala
+- Repo : https://github.com/Team-Bob7/AirViewer2-master
