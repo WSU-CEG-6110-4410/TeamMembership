@@ -41,7 +41,7 @@
 - Kevin Logemann | kevinlogemann
 - Benjamin Conley | FrostyWumpus
 - Lettie Unkrich | Letscet
-- Daniel King | danielrking4290
+- Daniel King | danielrking4290/drking4290
 	
 ## Team: Alpha
 - Rahul Satla: rahul-satla 
