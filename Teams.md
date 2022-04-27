@@ -77,6 +77,7 @@
 - Jahnavi Bandi | janu0613
 - Venkata Anudeep Medam | anudeepmv
 - Repository: https://github.com/anudeepmv/WEBSTER
+- Repository for front end : https://github.com/anudeepmv/WEBSTER--UI
 
 ## Team: Agile tuskers
 - Sprint duration : 5 days
