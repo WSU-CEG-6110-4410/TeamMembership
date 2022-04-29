@@ -76,6 +76,7 @@
 - Prathyusha Narra | prathyu2719
 - Jahnavi Bandi | janu0613
 - Venkata Anudeep Medam | anudeepmv
+- Revanth Krishna Cherukuri | cherukuri.31@wright.edu
 - Repository: https://github.com/anudeepmv/WEBSTER
 - Repository for front end : https://github.com/anudeepmv/WEBSTER--UI
 
