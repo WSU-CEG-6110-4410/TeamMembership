@@ -68,6 +68,8 @@
 - Manning, Jessica: github.com/jlmanning
 - Stephan Garrett | Hanaham
 - Parker Miller | P4RK3RM
+- Repository: https://github.com/WSU-CEG-6110-4410/Remainders-Craft
+-Sprint Length: 1 week
 
 ## Team: Developers
 - Sprint Duration: 5 days
