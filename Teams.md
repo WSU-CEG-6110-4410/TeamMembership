@@ -42,6 +42,7 @@
 - Benjamin Conley | FrostyWumpus
 - Lettie Unkrich | Letscet
 - Daniel King | danielrking4290/drking4290
+- Repo: https://github.com/WSU-CEG-6110-4410/ADAD-Craft
 	
 ## Team: Alpha
 - Rahul Satla: rahul-satla 
